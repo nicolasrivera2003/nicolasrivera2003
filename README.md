@@ -4,6 +4,10 @@
 </p>
 
 <p align="center">
+  <b>🚧 NEW GITHUB ACCOUNT — Actively building and uploading projects</b>
+</p>
+
+<p align="center">
   Building structured systems, scalable products, and long-term solutions.
 </p>
 
@@ -12,6 +16,8 @@
 ## 🚀 About
 
 I design and build software with a focus on clarity, performance, and maintainability.
+
+This is a new GitHub account where I am actively uploading and organizing my engineering projects, experimental systems, and startup infrastructure work.
 
 This profile contains my personal projects, experimental builds, and entrepreneurial ventures.
 
